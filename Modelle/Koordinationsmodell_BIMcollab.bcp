@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<bimcollabprojectfile>
+    <version>1</version>
+    <applicationversion>Win - Version: 7.4 (build 7.4.9.0)</applicationversion>
+</bimcollabprojectfile>
+
+<project>
+    <coordinatedorigin>0.0000000000000000;0.0000000000000000;0.0000000000000000</coordinatedorigin>
+    <model>
+        <filepath>C:\Users\LouisTrümpler\Dropbox\01_Projekte\TEACHING\HSLU\Duplex_A_20110907.ifc</filepath>
+        <filesize>2.38076e+06</filesize>
+        <timestamp>2024-04-18T12:32:55</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>0001</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>20100326_1700</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+    <model>
+        <filepath>C:\Users\LouisTrümpler\Downloads\Duplex_Electrical_20121207.ifc</filepath>
+        <filesize>1.60276e+06</filesize>
+        <timestamp>2024-04-18T12:33:25</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>Duplex_MEP_20121207 - Electrical.ifc</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>20121003_2115(x64)</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+    <model>
+        <filepath>C:\Users\LouisTrümpler\Downloads\Duplex_MEP_20110907.ifc</filepath>
+        <filesize>1.78714e+07</filesize>
+        <timestamp>2024-04-18T12:33:31</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>0001</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>20100326_1700</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+</project>

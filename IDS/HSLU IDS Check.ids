@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ids xmlns="http://standards.buildingsmart.org/IDS" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS/0.9.6/ids.xsd">
+    <info>
+        <title>HSLU IDS Check</title>
+        <version>1.0</version>
+        <description>Verification of the existence of IfcWall and IfcWindow entities within the IFC file.</description>
+        <author>louis@lt.plus</author>
+        <purpose>Validation of IFC file content for required entities</purpose>
+        <milestone>CAS FS</milestone>
+    </info>
+    <specifications>
+        <specification name="IfcWall Existence" ifcVersion="IFC4" identifier="cb99a280-e531-4c16-a5cc-8b57f4003b18" description="The IFC file must contain at least one instance of the IfcWall entity" instructions="Put at least one instance of the IfcWall entity in IFC" minOccurs="1" maxOccurs="unbounded">
+            <applicability>
+                <entity>
+                    <name>
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="IFCWALL" />
+                        </xs:restriction>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <entity>
+                    <name>
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="IFCWALL" />
+                        </xs:restriction>
+                    </name>
+                </entity>
+            </requirements>
+        </specification>
+    </specifications>
+</ids>

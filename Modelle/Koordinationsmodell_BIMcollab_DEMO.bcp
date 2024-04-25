@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<bimcollabprojectfile>
+    <version>1</version>
+    <applicationversion>Win - Version: 7.4 (build 7.4.9.0)</applicationversion>
+</bimcollabprojectfile>
+
+<project>
+    <coordinatedorigin>0.0000000000000000;0.0000000000000000;0.0000000000000000</coordinatedorigin>
+    <model>
+        <filepath>C:\Users\Public\Documents\BIMcollab Zoom\Sample\01_Design\01_BIMcollab_Example_ARC.ifczip</filepath>
+        <filesize>3.45736e+06</filesize>
+        <timestamp>2024-02-29T15:41:19</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>/Volumes/Projecten/2018/18.28 BIMcollab PM/00 Documentation/04 BIMcollab ZOOM/07 BIMcollab Example project (translated)/TranslatingScript/01_BIMcollab_Example_ARC.ifc</originalfilename>
+        <description>ViewDefinition [CoordinationView_V2.0, SurfaceGeometryAddOnView, QuantityTakeOffAddOnView, SpaceBoundary2ndLevelAddOnView], Option [Drawing Scale: 100.000000], Option [Global Unique Identifiers (GUID): Keep existing], Option [Elements to export: Visible elements (on all stories)], Option [Partial Structure Display: Entire Model], Option [IFC Domain: All], Option [Structural Function: All Elements], Option [Convert Grid elements: On], Option [Convert IFC Annotations and ARCHICAD 2D elements: On], Option [Convert 2D symbols of Doors and Windows: On], Option [Explode Composite and Complex Profile elements into parts: Off], Option [Export geometries that Participates in Collision Detection only: Off], Option [Use legacy geometric methods as in Coordination View 1.0: Off], Option [IFC Site Geometry: As boundary representation (BRep)], Option [IFC Site Location: At Project Origin], Option [Curtain Wall export mode: Container Element], Option [Railing export mode: Single Element], Option [Stair export mode: Single Element], Option [Properties To Export: Current Scheme properties only], Option [Space containment: On], Option [IFC Domain For Space Containment: Custom], Option [Bounding Box: On], Option [Geometry to type objects: Off], Option [Element Properties: Off], Option [Property Type Element Parameter: Off], Option [Quantity Type Element Parameter: Off], Option [IFC Base Quantities: On], Option [Window Door Lining and Panel Parameters: On], Option [IFC Space boundaries: On], Option [ARCHICAD Zone Categories as IFC Space classification data: Off], Option [Element Classifications: On]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author>Architect</author>
+        <organization>Building Designer Office</organization>
+        <originatingsystem>(Solibri IFC Optimizer)</originatingsystem>
+        <authorization>The authorising person</authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+    <model>
+        <filepath>C:\Users\Public\Documents\BIMcollab Zoom\Sample\01_Design\02_BIMcollab_Example_STR.ifczip</filepath>
+        <filesize>103884</filesize>
+        <timestamp>2024-02-29T15:41:19</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>2012C-006</originalfilename>
+        <description>ViewDefinition [CoordinationView_V2.0, QuantityTakeOffAddOnView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author></author>
+        <organization></organization>
+        <originatingsystem>(Solibri IFC Optimizer)</originatingsystem>
+        <authorization></authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+    <model>
+        <filepath>C:\Users\Public\Documents\BIMcollab Zoom\Sample\01_Design\03_BIMcollab_Example_MEP.ifczip</filepath>
+        <filesize>3.50368e+06</filesize>
+        <timestamp>2024-02-29T15:41:20</timestamp>
+        <prefix></prefix>
+        <modelloaded>true</modelloaded>
+        <online>false</online>
+        <originalfilename>03_BIMcollab_Example_MEP.ifc</originalfilename>
+        <description>ViewDefinition [CoordinationView]</description>
+        <implementationlevel>2;1</implementationlevel>
+        <author>rgeenen</author>
+        <organization>Data Design System ASA</organization>
+        <originatingsystem>DDS-CAD Version 9 Win32 build 13/11-2013 (Solibri IFC Optimizer)</originatingsystem>
+        <authorization>DDS</authorization>
+        <fileschema>IFC2X3</fileschema>
+        <discipline></discipline>
+    </model>
+</project>
