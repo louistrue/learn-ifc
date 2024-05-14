@@ -1,2 +1,2 @@
 # HSLU_CAS_24
-learning IFC
+teaching & learning IFC / openBIM concepts
