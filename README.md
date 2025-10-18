@@ -43,6 +43,8 @@ python test_ifc_window.py
 ### 📓 **Educational Notebooks**
 - **[`BFH-25.ipynb`](BFH-25.ipynb)** - Comprehensive tutorial (German) covering complete IFC model creation
 - **[`HSLU_24_IFC.ipynb`](HSLU_24_IFC.ipynb)** - Advanced IFC concepts and techniques
+- **[`BFH-25-PropertySets-Export.ipynb`](BFH-25-PropertySets-Export.ipynb)** - Extrahiert PropertySets aus IFC-Dateien und exportiert sie als CSV
+- **[`BFH-25-PropertySets-Dashboard.ipynb`](BFH-25-PropertySets-Dashboard.ipynb)** - Erweiterung des Exports mit einem eingebetteten Dash-Dashboard zur Visualisierung der Ergebnisse
 
 ### 🐍 **Python Scripts**
 - **[`test_ifc_window.py`](test_ifc_window.py)** - Complete IFC model with wall, window, and property sets
