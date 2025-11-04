@@ -1,0 +1,24 @@
+{
+  "api_token": "YOUR_TOKEN_HERE",
+  "base_id": "YOUR_BASE_ID_HERE",
+  "tables": {
+    "properties": "YOUR_PROPERTIES_TABLE_ID_HERE",
+    "fabrication": "YOUR_FABRICATION_TABLE_ID_HERE"
+  },
+  "field_mappings": {
+    "properties": {
+      "ifc_guid": "IFC GUID",
+      "element_type": "Element Type",
+      "fire_rating": "Fire Rating",
+      "unit_cost": "Unit Cost",
+      "cost_basis": "Cost Basis",
+      "last_updated": "Last Updated"
+    },
+    "fabrication": {
+      "ifc_guid": "IFC GUID",
+      "supplier": "Supplier",
+      "lead_time_days": "Lead Time Days",
+      "status": "Status"
+    }
+  }
+}
